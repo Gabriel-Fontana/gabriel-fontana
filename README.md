@@ -1,40 +1,58 @@
-![Hi](https://github.com/user-attachments/assets/af7530a6-6484-4316-b63e-15c9b4fab5d9)
+Markdown
+![Header](https://github.com/user-attachments/assets/af7530a6-6484-4316-b63e-15c9b4fab5d9)
 
 # Gabriel Fontana
-### Entusiasta de Cloud & DevOps | Construindo Soluções Escaláveis
+**Cloud Infrastructure & Site Reliability Engineer (SRE)**
 
-Olá! 👋  
-Atualmente, dedico-me ao estudo e à prática de **Cloud Computing** e **DevOps**, com foco na arquitetura e implementação de sistemas escaláveis e resilientes. Tenho experiência em Linux, Kubernetes e Infraestrutura como Código, aplicando boas práticas de automação e otimização de ambientes de TI.
-
----
-
-## 🛠️ System Overview (Sobre mim)
-
-- 🌍 **Localização:** Brasil  
-- ☁️ **Cloud Focus:** Aprofundando conhecimentos em **AWS** e **Azure**.  
-- ⚙️ **Estratégia:** Desenvolvimento de projetos práticos que unem teoria e aplicação para entrega de soluções robustas.  
-- 🚀 **Objetivo:** Automatizar tudo e eliminar gargalos operacionais.
+> Arquitetura de sistemas resilientes, automação de infraestrutura crítica e governança de custos em ambientes Multi-Cloud. Especialista em elevar a confiabilidade do software através de práticas modernas de Observabilidade e CI/CD.
 
 ---
 
-## 🔧 Habilidades Técnicas
+### 💻 System Configuration (Profile Stack)
+```yaml
+identity:
+  role: "Cloud & DevOps Engineer"
+  location: "Brazil"
+  expertise: ["High Availability", "Scalability", "Infrastructure as Code"]
 
-### 🏗️ Cloud & DevOps
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+engineering_capabilities:
+  orchestration: 
+    - "Kubernetes (EKS, AKS, Self-managed)"
+    - "Docker & Container Ecosystem"
+  cloud_infrastructure: 
+    - "AWS (IAM, VPC, EKS, Lambda, S3)"
+    - "Azure (Azure DevOps, AKS, Resource Manager)"
+  provisioning_automation: 
+    - "Terraform (IaC)"
+    - "Ansible"
+    - "GitHub Actions (CI/CD Pipelines)"
+  observability_stack: 
+    - "Prometheus & Grafana"
+    - "ELK Stack (Elasticsearch, Logstash, Kibana)"
+🛠️ Core Technical Ecosystem
+Infrastructure & Runtime
+Linux Admin (Kernel Tuning) • Kubernetes • Terraform • Docker • Networking (TCP/IP, DNS, VPN)
 
-### 💻 Desenvolvimento & Scripting
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+Development & Scripting
+Python (Automation) • Go • Bash • Node.js • TypeScript
 
----
+Deployment Strategies
+Blue/Green Deployment • Canary Releases • GitOps (ArgoCD) • Zero-Downtime Migration
 
-## 📂 Projetos em Destaque
+🚀 High-Impact Engineering Projects
+📦 EstoqueTech Ecosystem
+Arquitetura de microsserviços conteinerizados com Kubernetes, implementando auto-scaling baseado em métricas de demanda e persistência de dados resiliente.
 
-- **📦 EstoqueTech:** Automatização e monitoramento de estoque utilizando **Docker** e **Kubernetes**.
-- **✅ NextTask:** Aplicação focada em fluxo de **Deploy Contínuo (CI/CD)**.
-- **📊 OpsPoint:** Dashboard avançado para visualização de **Monitoramento e Logs**.
+⚙️ NextTask Continuous Delivery
+Engenharia de pipeline CI/CD focada em automação total do ciclo de vida, garantindo testes de integração rigorosos e deploy contínuo em ambientes produtivos.
 
----
+📊 OpsPoint Observability Platform
+Centralização de telemetria (Métricas, Logs e Tracing), utilizando Grafana e Prometheus para antecipação de falhas e redução do MTTR (Mean Time To Recovery).
 
-## 📡 Conexões
-
-[![LinkedIn](
+📊 Infrastructure Metrics
+📡 Connection Gateways
+Bash
+# Established connection for consultancy or collaboration
+$ curl -X POST [https://api.gabrielfontana.dev/contact](https://api.gabrielfontana.dev/contact) \
+  -H "Content-Type: application/json" \
+  -d '{"message": "Let’s scale the infrastructure."}'
