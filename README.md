@@ -17,7 +17,7 @@ Atualmente, estou aprofundando meus conhecimentos em **AWS e Azure**, desenvolve
 
 ---
 
-## 🛠 Habilidades Técnicas
+## ☁️🛠 Habilidades Técnicas
 
 ### ☁️ Cloud & DevOps
 <p align="left">
@@ -27,7 +27,7 @@ Atualmente, estou aprofundando meus conhecimentos em **AWS e Azure**, desenvolve
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge"/>
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&style=for-the-badge"/>
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&style=for-the-badge"/>
-  <img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-007ACC?logo=azurepipelines&style=for-the-badge"/>
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-007ACC?logo=azurepipelines&style=for-the-badge"/>
 </p>
 
 ### 💻 Programação
@@ -44,9 +44,9 @@ Atualmente, estou aprofundando meus conhecimentos em **AWS e Azure**, desenvolve
 
 ## 📫 Contato
 
-- LinkedIn: [Gabriel Fontana](#)  
-- GitHub: [github.com/seu-usuario](#)  
-- Portfólio: [gabrielfontana.vercel.app](https://gabrielfontana.vercel.app/)
+- 🔗 LinkedIn: [Gabriel Fontana](#)  
+- 🐙 GitHub: [github.com/seu-usuario](#)  
+- 🌐 Portfólio: [gabrielfontana.vercel.app](https://gabrielfontana.vercel.app/)
 
 ---
 
