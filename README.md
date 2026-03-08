@@ -1,30 +1,30 @@
 ![Header](https://github.com/user-attachments/assets/af7530a6-6484-4316-b63e-15c9b4fab5d9)
 
 # Gabriel Fontana
-**Cloud Infrastructure & Site Reliability Engineer (SRE)**
+### Entusiasta de Cloud & DevOps | Construindo Soluções Escaláveis para o Futuro
 
-> Especialista em arquitetura de sistemas resilientes, automação de infraestrutura crítica e governança de custos em ambientes Multi-Cloud. Foco em elevar a confiabilidade do software através de práticas modernas de Observabilidade e CI/CD.
+Olá! 👋  
+Atualmente, me dedico ao estudo e à prática em **Cloud Computing e DevOps**, com foco na arquitetura e implementação de sistemas escaláveis e resilientes. Tenho experiência em **Linux, Kubernetes e Infraestrutura como Código**, aplicando boas práticas de automação e otimização de ambientes de TI. Estou aprofundando meus conhecimentos em **AWS e Azure**, desenvolvendo projetos práticos que unem teoria e aplicação, sempre com o objetivo de entregar soluções robustas e inovadoras.
 
 ---
 
-### 💻 System Configuration (Profile Stack)
+### 💻 Profile System Configuration
 ```yaml
-identity:
-  role: "Cloud & DevOps Engineer"
-  location: "Brazil"
-  expertise: ["High Availability", "Scalability", "Infrastructure as Code"]
+user:
+  name: "Gabriel Fontana"
+  role: "Cloud Infrastructure & DevOps Engineer"
+  location: "Brasil"
+  motto: "Construindo Soluções Escaláveis para o Futuro"
 
 engineering_capabilities:
-  orchestration: 
-    - "Kubernetes (EKS, AKS, Self-managed)"
-    - "Docker & Container Ecosystem"
-  cloud_infrastructure: 
-    - "AWS (IAM, VPC, EKS, Lambda, S3)"
-    - "Azure (Azure DevOps, AKS, Resource Manager)"
-  provisioning_automation: 
-    - "Terraform (IaC)"
-    - "Ansible"
-    - "GitHub Actions (CI/CD Pipelines)"
-  observability_stack: 
-    - "Prometheus & Grafana"
-    - "ELK Stack (Elasticsearch, Logstash, Kibana)"
+  cloud_ops: 
+    - "Linux Admin"
+    - "AWS & Azure Environments"
+    - "Kubernetes (K8s) Orchestration"
+    - "Docker Containerization"
+    - "Terraform (T-Form) - IaC"
+  development_scripting: 
+    - "Python"
+    - "JavaScript"
+    - "Bash Scripting"
+    - "GitHub Actions / CI-CD"
