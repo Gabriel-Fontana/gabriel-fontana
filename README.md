@@ -1,34 +1,40 @@
 ![Hi](https://github.com/user-attachments/assets/af7530a6-6484-4316-b63e-15c9b4fab5d9)
 
 # Gabriel Fontana
+### Entusiasta de Cloud & DevOps | Construindo Soluções Escaláveis
 
 Olá! 👋  
-Sou estudante de Engenharia de Software, apaixonado por desenvolvimento web, tecnologia e criação de soluções que facilitem o dia a dia das pessoas.
+Atualmente, dedico-me ao estudo e à prática de **Cloud Computing** e **DevOps**, com foco na arquitetura e implementação de sistemas escaláveis e resilientes. Tenho experiência em Linux, Kubernetes e Infraestrutura como Código, aplicando boas práticas de automação e otimização de ambientes de TI.
 
 ---
 
-## Sobre mim
+## 🛠️ System Overview (Sobre mim)
 
-- 🎓 Estudante de Engenharia de Software  
-- 💻 Foco em desenvolvimento Front-end e aprendizado constante  
-- 🌱 Buscando crescimento profissional e novas experiências  
-- 🚀 Motivado por desafios e inovação tecnológica
-
----
-
-## Contato e Redes Sociais
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-fontana)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mpx.dev)  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@g.afontana)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-Fontana)
+- 🌍 **Localização:** Brasil  
+- ☁️ **Cloud Focus:** Aprofundando conhecimentos em **AWS** e **Azure**.  
+- ⚙️ **Estratégia:** Desenvolvimento de projetos práticos que unem teoria e aplicação para entrega de soluções robustas.  
+- 🚀 **Objetivo:** Automatizar tudo e eliminar gargalos operacionais.
 
 ---
 
-## Tecnologias
+## 🔧 Habilidades Técnicas
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+### 🏗️ Cloud & DevOps
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+
+### 💻 Desenvolvimento & Scripting
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ---
 
+## 📂 Projetos em Destaque
 
+- **📦 EstoqueTech:** Automatização e monitoramento de estoque utilizando **Docker** e **Kubernetes**.
+- **✅ NextTask:** Aplicação focada em fluxo de **Deploy Contínuo (CI/CD)**.
+- **📊 OpsPoint:** Dashboard avançado para visualização de **Monitoramento e Logs**.
 
+---
 
+## 📡 Conexões
 
+[![LinkedIn](
