@@ -1,25 +1,12 @@
 # 👋 Olá! Eu sou Gabriel Fontana
 
-Sou um entusiasta de **Cloud & DevOps** do Brasil, focado em construir **soluções escaláveis e resilientes**.  
-Atualmente, estudo e aplico conceitos de **Cloud Computing, Kubernetes, Linux e Infraestrutura como Código**, sempre buscando automação e otimização de ambientes de TI.
+Sou um entusiasta de **Cloud & DevOps**, focado em construir **soluções escaláveis e resilientes**.  
+Atualmente estudo e aplico **Cloud Computing, Kubernetes, Linux e Infraestrutura como Código**, sempre buscando automação e otimização de ambientes de TI.
 
 ---
 
-## 🌟 Sobre mim
+## ☁️ Cloud & DevOps
 
-Tenho experiência prática em:
-
-- Gestão de infraestrutura e sistemas escaláveis  
-- Automação de processos e deploy contínuo  
-- Aplicação de boas práticas DevOps  
-
-Atualmente, estou aprofundando meus conhecimentos em **AWS e Azure**, desenvolvendo soluções robustas e inovadoras.
-
----
-
-## ☁️🛠 Habilidades Técnicas
-
-### ☁️ Cloud & DevOps
 <p align="left">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&style=for-the-badge"/>
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&style=for-the-badge"/>
@@ -30,7 +17,10 @@ Atualmente, estou aprofundando meus conhecimentos em **AWS e Azure**, desenvolve
   <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-007ACC?logo=azurepipelines&style=for-the-badge"/>
 </p>
 
-### 💻 Programação
+---
+
+## 💻 Programação
+
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge"/>
@@ -50,4 +40,4 @@ Atualmente, estou aprofundando meus conhecimentos em **AWS e Azure**, desenvolve
 
 ---
 
-✨ Estou sempre aprendendo, criando soluções e aplicando **DevOps & Cloud** para entregar projetos escaláveis e eficientes.
+✨ Sempre aprendendo e aplicando **Cloud & DevOps** para entregar projetos escaláveis e eficientes.
