@@ -2,17 +2,16 @@
 
 ### 💻 Cloud & DevOps Dashboard
 
-Sou entusiasta de **Cloud & DevOps**, focado em construir **soluções escaláveis e resilientes**.  
-
-Sempre aplicando conceitos de **Cloud, Kubernetes, Linux e Infraestrutura como Código**, buscando automação e otimização de ambientes.
+Sou um entusiasta de **Cloud & DevOps**, focado em criar **soluções escaláveis e resilientes**.  
+Aplicando conceitos de **Cloud, Kubernetes, Linux e Infraestrutura como Código**, sempre buscando **automação e otimização de ambientes**.
 
 ---
 
 ## ☁️ Habilidades Cloud & DevOps
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/> 
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/> 
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> 
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> 
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/> 
@@ -51,4 +50,4 @@ Sempre aplicando conceitos de **Cloud, Kubernetes, Linux e Infraestrutura como C
 
 ---
 
-✨ Sempre aprendendo e aplicando **Cloud & DevOps** para entregar soluções escaláveis e eficientes.
+✨ Sempre aprendendo e aplicando **Cloud & DevOps** para entregar **projetos escaláveis, confiáveis e automatizados**.
