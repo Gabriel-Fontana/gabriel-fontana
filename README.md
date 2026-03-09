@@ -8,13 +8,13 @@ Atualmente estudo e aplico **Cloud Computing, Kubernetes, Linux e Infraestrutura
 ## ☁️ Cloud & DevOps
 
 <p align="left">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&style=for-the-badge"/>
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&style=for-the-badge"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge"/>
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&style=for-the-badge"/>
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&style=for-the-badge"/>
-  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-007ACC?logo=azurepipelines&style=for-the-badge"/>
+  <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/> AWS
+  <img alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/> Azure
+  <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> Linux
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> Docker
+  <img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> Kubernetes
+  <img alt="Terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/> Terraform
+  <img alt="CI/CD" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/> CI/CD
 </p>
 
 ---
@@ -22,12 +22,12 @@ Atualmente estudo e aplico **Cloud Computing, Kubernetes, Linux e Infraestrutura
 ## 💻 Programação
 
 <p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge"/>
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&style=for-the-badge"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge"/>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&style=for-the-badge"/>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&style=for-the-badge"/>
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> Python
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> JavaScript
+  <img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/> Bash
+  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> GitHub
+  <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> HTML
+  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> CSS
 </p>
 
 ---
