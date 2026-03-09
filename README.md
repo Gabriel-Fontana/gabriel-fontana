@@ -16,7 +16,7 @@ Sempre aplicando conceitos de **Cloud, Kubernetes, Linux e Infraestrutura como C
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> 
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/> 
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/> 
-  <img src="https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge&logo=azure-pipelines&logoColor=white" alt="CI/CD"/>
 </p>
 
 ---
@@ -37,7 +37,7 @@ Sempre aplicando conceitos de **Cloud, Kubernetes, Linux e Infraestrutura como C
 ## 📫 Contato & Portfólio
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a> 
   <a href="https://github.com/seu-usuario" target="_blank">
