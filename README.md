@@ -10,13 +10,13 @@ Sempre aplicando conceitos de **Cloud, Kubernetes, Linux e Infraestrutura como C
 ## ☁️ Habilidades Cloud & DevOps
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/> 
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/> 
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> 
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> 
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/> 
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/> 
-  <img src="https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge&logo=jenkins&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge&logo=azurepipelines&logoColor=white" alt="CI/CD"/>
 </p>
 
 ---
