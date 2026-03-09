@@ -10,8 +10,8 @@ Sempre aplicando conceitos de **Cloud, Kubernetes, Linux e Infraestrutura como C
 ## ☁️ Habilidades Cloud & DevOps
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> 
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/> 
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/> 
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> 
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/> 
@@ -37,7 +37,7 @@ Sempre aplicando conceitos de **Cloud, Kubernetes, Linux e Infraestrutura como C
 ## 📫 Contato & Portfólio
 
 <p align="left">
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a> 
   <a href="https://github.com/seu-usuario" target="_blank">
