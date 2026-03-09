@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Gabriel Fontana
 
-### 💻 Cloud & DevOps Dashboard
+### 💻 Cloud & DevOps 
 
 Sou um entusiasta de **Cloud & DevOps**, focado em criar **soluções escaláveis e resilientes**.  
 Aplicando conceitos de **Cloud, Kubernetes, Linux e Infraestrutura como Código**, sempre buscando **automação e otimização de ambientes**.
