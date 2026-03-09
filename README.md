@@ -1,11 +1,13 @@
 # 👋 Olá! Eu sou Gabriel Fontana
 
-Sou um entusiasta de **Cloud & DevOps**, focado em construir **soluções escaláveis e resilientes**.  
-Atualmente estudo e aplico **Cloud Computing, Kubernetes, Linux e Infraestrutura como Código**, sempre buscando automação e otimização de ambientes de TI.
+### 💻 Cloud & DevOps Dashboard
+
+Sou entusiasta de **Cloud & DevOps**, focado em construir **soluções escaláveis e resilientes**.  
+Sempre aplicando conceitos de **Cloud, Kubernetes, Linux e Infraestrutura como Código**, buscando automação e otimização de ambientes.
 
 ---
 
-## ☁️ Cloud & DevOps
+## ☁️ Habilidades Cloud & DevOps
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> 
@@ -19,7 +21,7 @@ Atualmente estudo e aplico **Cloud Computing, Kubernetes, Linux e Infraestrutura
 
 ---
 
-## 💻 Programação
+## 💻 Habilidades de Programação
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
@@ -32,11 +34,20 @@ Atualmente estudo e aplico **Cloud Computing, Kubernetes, Linux e Infraestrutura
 
 ---
 
-## 📫 Contato
+## 📫 Contato & Portfólio
 
-- 🔗 LinkedIn: [Gabriel Fontana](#)  
-- 🌐 Portfólio: [gabrielfontana.vercel.app](https://gabrielfontana.vercel.app/)
+<p align="left">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> 
+  <a href="https://github.com/seu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a> 
+  <a href="https://gabrielfontana.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-00BFA5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
+  </a>
+</p>
 
 ---
 
-✨ Sempre aprendendo e aplicando **Cloud & DevOps** para entregar projetos escaláveis e eficientes.
+✨ Sempre aprendendo e aplicando **Cloud & DevOps** para entregar soluções escaláveis e eficientes.
