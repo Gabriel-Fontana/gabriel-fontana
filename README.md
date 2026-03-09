@@ -8,27 +8,13 @@ Atualmente estudo e aplico **Cloud Computing, Kubernetes, Linux e Infraestrutura
 ## ☁️ Cloud & DevOps
 
 <p align="left">
-  <span style="display:inline-block; background:#FF9900; color:white; padding:5px 10px; border-radius:8px; margin:4px; font-weight:bold;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20" height="20" style="vertical-align:middle; margin-right:5px;"/> AWS
-  </span>
-  <span style="display:inline-block; background:#0089D6; color:white; padding:5px 10px; border-radius:8px; margin:4px; font-weight:bold;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="20" height="20" style="vertical-align:middle; margin-right:5px;"/> Azure
-  </span>
-  <span style="display:inline-block; background:#FCC624; color:black; padding:5px 10px; border-radius:8px; margin:4px; font-weight:bold;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" style="vertical-align:middle; margin-right:5px;"/> Linux
-  </span>
-  <span style="display:inline-block; background:#2496ED; color:white; padding:5px 10px; border-radius:8px; margin:4px; font-weight:bold;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20" style="vertical-align:middle; margin-right:5px;"/> Docker
-  </span>
-  <span style="display:inline-block; background:#326CE5; color:white; padding:5px 10px; border-radius:8px; margin:4px; font-weight:bold;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20" height="20" style="vertical-align:middle; margin-right:5px;"/> Kubernetes
-  </span>
-  <span style="display:inline-block; background:#7B42BC; color:white; padding:5px 10px; border-radius:8px; margin:4px; font-weight:bold;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="20" height="20" style="vertical-align:middle; margin-right:5px;"/> Terraform
-  </span>
-  <span style="display:inline-block; background:#007ACC; color:white; padding:5px 10px; border-radius:8px; margin:4px; font-weight:bold;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="20" height="20" style="vertical-align:middle; margin-right:5px;"/> CI/CD
-  </span>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&style=for-the-badge"/> 
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&style=for-the-badge"/> 
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge"/> 
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge"/> 
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&style=for-the-badge"/> 
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&style=for-the-badge"/> 
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-007ACC?logo=azurepipelines&style=for-the-badge"/>
 </p>
 
 ---
@@ -36,22 +22,21 @@ Atualmente estudo e aplico **Cloud Computing, Kubernetes, Linux e Infraestrutura
 ## 💻 Programação
 
 <p align="left">
-  <span style="display:inline-block; background:#3776AB; color:white; padding:5px 10px; border-radius:8px; margin:4px; font-weight:bold;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" style="vertical-align:middle; margin-right:5px;"/> Python
-  </span>
-  <span style="display:inline-block; background:#F7DF1E; color:black; padding:5px 10px; border-radius:8px; margin:4px; font-weight:bold;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" style="vertical-align:middle; margin-right:5px;"/> JavaScript
-  </span>
-  <span style="display:inline-block; background:#4EAA25; color:white; padding:5px 10px; border-radius:8px; margin:4px; font-weight:bold;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20" height="20" style="vertical-align:middle; margin-right:5px;"/> Bash
-  </span>
-  <span style="display:inline-block; background:#181717; color:white; padding:5px 10px; border-radius:8px; margin:4px; font-weight:bold;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" style="vertical-align:middle; margin-right:5px;"/> GitHub
-  </span>
-  <span style="display:inline-block; background:#E34F26; color:white; padding:5px 10px; border-radius:8px; margin:4px; font-weight:bold;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" style="vertical-align:middle; margin-right:5px;"/> HTML
-  </span>
-  <span style="display:inline-block; background:#1572B6; color:white; padding:5px 10px; border-radius:8px; margin:4px; font-weight:bold;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" style="vertical-align:middle; margin-right:5px;"/> CSS
-  </span>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge"/> 
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge"/> 
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&style=for-the-badge"/> 
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge"/> 
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&style=for-the-badge"/> 
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&style=for-the-badge"/>
 </p>
+
+---
+
+## 📫 Contato
+
+- 🔗 LinkedIn: [Gabriel Fontana](#)  
+- 🌐 Portfólio: [gabrielfontana.vercel.app](https://gabrielfontana.vercel.app/)
+
+---
+
+✨ Sempre aprendendo e aplicando **Cloud & DevOps** para entregar projetos escaláveis e eficientes.
