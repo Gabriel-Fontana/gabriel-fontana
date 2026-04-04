@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner principal totalmente preto -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:000000,100:000000&text=Gabriel%20Fontana%20%7C%20Cloud%20%26%20DevOps&fontColor=ffffff&fontSize=38&fontAlignY=38&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:000000,100:000000&text=Gabriel%20Fontana&fontColor=ffffff&fontSize=38&fontAlignY=38&animation=fadeIn" />
 
 <!-- Typing effect -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=9CA3AF&center=true&vCenter=true&width=900&lines=Building+Scalable+Cloud+Solutions;Practicing+DevOps+and+Infrastructure+as+Code;Working+with+Linux%2C+Kubernetes%2C+Docker%2C+AWS%2C+Azure)](https://git.io/typing-svg)
