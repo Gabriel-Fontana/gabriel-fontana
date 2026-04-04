@@ -1,16 +1,14 @@
 <div align="center">
 
-<!-- Banner funcional preto -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:000000,100:000000&text=Gabriel%20Fontana%20%7C%20Cloud%20%26%20DevOps&fontColor=ffffff&fontSize=38&fontAlignY=38&animation=fadeIn" />
+<!-- Banner totalmente preto -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:000000,100:000000&text=Gabriel%20Fontana&fontColor=ffffff&fontSize=38&fontAlignY=38&animation=fadeIn" />
 
 <!-- Typing effect -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=9CA3AF&center=true&vCenter=true&width=900&lines=Building+Scalable+Cloud+Solutions;Practicing+DevOps+and+Infrastructure+as+Code;Working+with+Linux%2C+Kubernetes%2C+Docker%2C+AWS%2C+Azure)](https://git.io/typing-svg)
 
 <!-- Badges -->
 <p>
-  <a href="https://github.com/Gabriel-Fontana"><img src="https://img.shields.io/badge/GitHub-Gabriel-Fontana-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/g.afontana"><img src="https://img.shields.io/badge/Instagram-g.afontana-111827?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://t.me/19991163175"><img src="https://img.shields.io/badge/Telegram-Connect-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/19991163175"><img src="https://img.shields.io/badge/Telegram-19%20991163175-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://gabrielfontana.vercel.app"><img src="https://img.shields.io/badge/Portfolio-gabrielfontana.vercel.app-111827?style=for-the-badge&logo=appveyor&logoColor=white" /></a>
 </p>
 
@@ -45,7 +43,7 @@ I am deepening my knowledge in **AWS and Azure**, developing practical projects 
 
 <div align="center">
 
-<!-- Footer funcional preto -->
+<!-- Footer totalmente preto -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,50:000000,100:000000&textBg=false&section=footer" />
 
 </div>
