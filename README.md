@@ -8,11 +8,12 @@
 
 <!-- Badges -->
 <p>
+  <a href="https://github.com/Gabriel-Fontana"><img src="https://img.shields.io/badge/GitHub-Gabriel--Fontana-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/g.afontana"><img src="https://img.shields.io/badge/Instagram-g.afontana-111827?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/devmpx"><img src="https://img.shields.io/badge/Twitter-@devmpx-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://t.me/19991163175"><img src="https://img.shields.io/badge/Telegram-19%20991163175-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://gabrielfontana.vercel.app"><img src="https://img.shields.io/badge/Portfolio-gabrielfontana.vercel.app-111827?style=for-the-badge&logo=appveyor&logoColor=white" /></a>
 </p>
-
-</div>
 
 ## About Me
 
