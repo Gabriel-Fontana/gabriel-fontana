@@ -18,14 +18,12 @@
 
 ## Sobre Mim
 
-Sou um profissional júnior de **Cloud & DevOps**, focado em construir soluções escaláveis, confiáveis e automatizadas para ambientes de produção.  
+Atualmente, dedico-me ao estudo e à prática de **Computação em Nuvem e DevOps**, com foco na **arquitetura e implementação de sistemas escaláveis e resilientes**.  
+Possuo experiência com **Linux, Kubernetes e Infraestrutura como Código**, aplicando as melhores práticas para **automação e otimização de ambientes de TI**.  
 
-- Local: Brazil  
-- Experiência com Linux, Kubernetes, Docker e Infraestrutura como Código (Terraform)  
-- Atuação em AWS e Azure, criando projetos práticos que unem teoria e aplicação  
-- Busca entregar soluções robustas e inovadoras  
+Estou aprofundando meus conhecimentos em **AWS e Azure**, desenvolvendo projetos práticos que unem teoria e prática, sempre com o objetivo de entregar **soluções robustas e inovadoras**.
 
-## Skills Principais
+## Skills
 
 ### Cloud & DevOps
 <p>
@@ -44,12 +42,6 @@ Sou um profissional júnior de **Cloud & DevOps**, focado em construir soluçõe
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=f97316" />
 </p>
-
-## Projetos Selecionados
-
-- [`cloud-automation`](https://github.com/GabrielFontana/cloud-automation) – Scripts e módulos Terraform para automatizar infraestrutura.  
-- [`k8s-deployer`](https://github.com/GabrielFontana/k8s-deployer) – Gerenciamento de deploys Kubernetes com CI/CD.  
-- [`ci-cd-pipelines`](https://github.com/GabrielFontana/ci-cd-pipelines) – Templates de pipelines GitHub Actions / GitLab CI/CD.  
 
 <div align="center">
 
