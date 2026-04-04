@@ -6,7 +6,14 @@
 <!-- Typing effect -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=9CA3AF&center=true&vCenter=true&width=900&lines=Building+Scalable+Cloud+Solutions;Practicing+DevOps+and+Infrastructure+as+Code;Working+with+Linux%2C+Kubernetes%2C+Docker%2C+AWS%2C+Azure)](https://git.io/typing-svg)
 
-</div>
+<!-- Badges logo abaixo do typing effect -->
+<p>
+  <a href="https://github.com/Gabriel-Fontana"><img src="https://img.shields.io/badge/GitHub-Gabriel--Fontana-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/g.afontana"><img src="https://img.shields.io/badge/Instagram-g.afontana-111827?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/devmpx"><img src="https://img.shields.io/badge/Twitter-@devmpx-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://t.me/19991163175"><img src="https://img.shields.io/badge/Telegram-19%20991163175-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://gabrielfontana.vercel.app"><img src="https://img.shields.io/badge/Portfolio-gabrielfontana.vercel.app-111827?style=for-the-badge&logo=appveyor&logoColor=white" /></a>
+</p>
 
 <!-- Conteúdo alinhado à esquerda -->
 <div align="left">
@@ -36,16 +43,6 @@ I am deepening my knowledge in **AWS and Azure**, developing practical projects 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=f97316" />
-</p>
-
-## Connect
-
-<p>
-  <a href="https://github.com/Gabriel-Fontana"><img src="https://img.shields.io/badge/GitHub-Gabriel--Fontana-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/g.afontana"><img src="https://img.shields.io/badge/Instagram-g.afontana-111827?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://twitter.com/devmpx"><img src="https://img.shields.io/badge/Twitter-@devmpx-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://t.me/19991163175"><img src="https://img.shields.io/badge/Telegram-19%20991163175-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://gabrielfontana.vercel.app"><img src="https://img.shields.io/badge/Portfolio-gabrielfontana.vercel.app-111827?style=for-the-badge&logo=appveyor&logoColor=white" /></a>
 </p>
 
 </div>
