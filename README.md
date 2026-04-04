@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Banner principal totalmente preto -->
+<!-- Banner funcional preto -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:000000,100:000000&text=Gabriel%20Fontana%20%7C%20Cloud%20%26%20DevOps&fontColor=ffffff&fontSize=38&fontAlignY=38&animation=fadeIn" />
 
 <!-- Typing effect -->
@@ -45,7 +45,7 @@ I am deepening my knowledge in **AWS and Azure**, developing practical projects 
 
 <div align="center">
 
-<!-- Footer totalmente preto -->
+<!-- Footer funcional preto -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,50:000000,100:000000&textBg=false&section=footer" />
 
 </div>
